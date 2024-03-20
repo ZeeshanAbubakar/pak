@@ -1,0 +1,10 @@
+h1 {
+    background-image: url(https://media.istockphoto.com/id/178885456/photo/flag-of-pakistan.jpg?s=612x612&w=0&k=20&c=90-vrn8dMujAlMoITlwuL_wpxNvdDVRWy9-5cyO-rMA=);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-clip: text;
+    color: transparent;
+
+}
